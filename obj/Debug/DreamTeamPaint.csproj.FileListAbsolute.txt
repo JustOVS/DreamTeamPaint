@@ -1,0 +1,9 @@
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.csprojAssemblyReference.cache
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.Form1.resources
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.Properties.Resources.resources
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.csproj.GenerateResource.cache
+C:\Users\sozon\source\repos\DreamTeamPaint\bin\Debug\DreamTeamPaint.exe.config
+C:\Users\sozon\source\repos\DreamTeamPaint\bin\Debug\DreamTeamPaint.exe
+C:\Users\sozon\source\repos\DreamTeamPaint\bin\Debug\DreamTeamPaint.pdb
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.exe
+C:\Users\sozon\source\repos\DreamTeamPaint\obj\Debug\DreamTeamPaint.pdb
