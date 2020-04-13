@@ -1,0 +1,10 @@
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.csprojAssemblyReference.cache
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.Form1.resources
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.Properties.Resources.resources
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.csproj.GenerateResource.cache
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.csproj.CoreCompileInputs.cache
+F:\ProjectsVS\DreamTeamPaint\bin\Debug\DreamTeamPaint.exe.config
+F:\ProjectsVS\DreamTeamPaint\bin\Debug\DreamTeamPaint.exe
+F:\ProjectsVS\DreamTeamPaint\bin\Debug\DreamTeamPaint.pdb
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.exe
+F:\ProjectsVS\DreamTeamPaint\obj\Debug\DreamTeamPaint.pdb
